@@ -1,4 +1,57 @@
-Description
-This app is simple to use and enables us to check all your regularly used SIM information services with just a single touch. No more hassles of remembering different codes for checking main balance and other services. 
-We can check our balance, imei no, phone no and call our respective customer care without remembering those tedious codes and the best part is we no longer have to type numbers on dial-pad to get our balance.
+About the widget:
+This app is simple to use and enables us to check all your regularly used SIM information services with just a single touch. 
+No more hassles of remembering different codes for checking main balance and other services. 
+We can check our balance, imei no, phone no and call our respective customer care without remembering those tedious codes
+and the best part is we no longer have to type numbers on dial-pad to get our balance.
+ 
+ The design is present in issues tab.
+
+DETAILED DESCRIPTION OF THE DESIGN:
+
+The widget has been designed keeping in mind that it will be present on the homescreen of the mobile phones. The 
+default area that it occupies is about one-fourth the homescreen so that it does not completely cover the screen. However 
+the user may re-size it according to his need. Since the size is small, the rest of the screen can still be used by the 
+user for other purposes – display icon of other apps. Due to its small area, wallpaper set by the user will also be visible. 
+
+The widget ‘SIM Essentials’ has four functions to perform: check our balance, phone number, imei number and call our
+respective customer care. The widget  has four tabs, each associated with a function. Any function can be performed by just 
+touching the respective tab.  The widget on the home screen should represent “at-a-glance” views of an app’s most important
+data and functionality that is accessible right from the user’s homescreen. Keeping this fact in mind, the size of each tab
+is such that all four tabs are visible on the homescreen together without requiring the user to scroll the screen to reach 
+to a required tab.
+
+The tabs are arranged according to how often a function associated with the tab is performed. The first tab is for checking 
+balance. Normally, when it is required to check balance, we open the keypad, dial the number and then get the balance.
+This will take some time and moreover, we might not remember the number for checking the balance. With this widget, checking
+balance will be no more tiresome. Just a touch on the tab and the balance is in front of us. It is good if we always have some 
+balance in our mobile. Hence, this tab has been kept first so that whenever we look at the homescreen, and our balance is low,
+we get reminded to recharge it. Moreover this widget will give us a notification when our balance is extremely low 
+(say below Rs.5) or zero. Also this widget will give the details of the last call made when we check balance. Hence we can
+also keep a track of how our balance is diminishing. At times we may need to check our balance before making a call to
+check if we have enough balance. We can easily do so by just a tap on screen and decide whether we can make a call or not.
+Hence it is appropriate to keep this tab first.
+
+The second tab is for making a call to the customer care. If we check our balance and it is not what we had expected and
+we are unable to figure out what went wrong, we can immediately call our customer care and enquire about it just by touching
+the tab next to the tab for balance. Also we can call the customer care to know the latest offers, data plans available.
+Hence, there is no longer the need to remember the long customer care numbers. Just a touch and we can enjoy the customer 
+care services offered on our mobile phones. 
+
+The next tab is for knowing our own phone number. We save all contacts in our mobiles so that we don’t have to memorize
+anybody’s number. Still we have to memorize our own mobile number. This widget is of great help to people who are unable to 
+remember their own number.  When we have to give our number to others, we might get confused and give wrong number. But with
+this widget we just the tab and with the blink of an eye we get our number. 
+
+The fourth tab is for knowing the imei number. These are fifteen digits number and are used less often. To know the imei 
+number we need to dial a universal code. Due to the less frequent use, we might not remember the universal code when we need
+to know our imei number. Hence with this widget, just with a tap we can know our imei number. If it’s a dual sim mobile, then
+when we tap this tab, a small pop-up window will appear which will show us two imei numbers.  
+
+With each tab there is a meaningful pictorial representation of the function it performs. The user in general will just
+glance at the screen and in such a short span pictures will be more efficient in conveying the information. Also reading will
+take some time and the user will be pleased if he gets the same information through pictures. Moreover, once we see a picture,
+it sets in our mind and later just a glance at the same picture is enough to recall the function associated with it. However,
+below each tab its function is also written in bold for convenience. Colourful pictures are chosen to make the widget look
+attractive. Bright and light shades of colours are chosen so that it is soothing to the eyes. At the same time the background
+colour of the widget has been so chosen that it would look good with any type of wallpaper.  
 
